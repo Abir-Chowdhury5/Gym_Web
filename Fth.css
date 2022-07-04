@@ -9,6 +9,8 @@ h1{
 }
 .dt{
     display: flex;
+    
+    
 }
 .dt p{
     font-size:large ;
@@ -19,7 +21,7 @@ h1{
 }
 .f-pt img{
     width: 100%;
-    padding: auto;
+    padding:auto;
 }
 .order{
     text-decoration: none;
@@ -28,4 +30,20 @@ h1{
     padding: 10px 30px;
     color: white;
     font-weight: 900px;
+}
+.h{
+    color: rgba(116, 118, 118, 0.98);
+   
+}
+.f-pta img{
+    width: 56%;
+    padding-left: 16%;}
+.f-pta{
+    width: 50%;
+    padding:8.5% ;
+}
+.a{
+    background-image: url(eat-healthy-main/images/shapes/7.png);
+    background-repeat: no-repeat;
+   background-position:left;
 }
