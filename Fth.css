@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.skip-color{
+    color: rgb(234, 176, 31);
+}
+h1{
+    font-size: 50px;
+}
+.dt{
+    display: flex;
+}
+.dt p{
+    font-size:large ;
+}
+.f-pt{
+    width: 50%;
+    padding: 5%;
+}
+.f-pt img{
+    width: 100%;
+    padding: auto;
+}
+.order{
+    text-decoration: none;
+    background-color:  tomato;
+    border-radius: 10px;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 900px;
+}
