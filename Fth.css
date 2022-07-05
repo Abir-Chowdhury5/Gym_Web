@@ -53,3 +53,60 @@ h1{
     padding: 10px 25px;
     
 }
+.vb{
+    text-align: center;
+    padding: 0% 25%;
+    border: 900;
+}
+.bv{
+    width: 40%;
+    padding: 20px;
+    box-shadow: 6px 6px 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+ 
+
+}
+.bvg{
+    width: 40%;
+    padding: 20px;
+    box-shadow: 6px 6px 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+   
+
+}
+.pic{
+    width: 100%;
+}
+.dot{
+    width: 33%;
+}
+.x{
+    text-align: center;
+    box-shadow: 6px 6px 30px;
+    border-radius: 10px; padding: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.foter{
+    background-color: black;
+    height: 220px;
+    
+}
+#t-a{
+    text-align: center;
+    
+}
+.eat{
+    color: tomato;
+}
+.cf{
+    color: rgb(74, 70, 70);
+}
+.q{
+    text-align: center;
+    color: rgb(54, 54, 241);
+}
